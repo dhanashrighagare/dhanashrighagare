@@ -1,4 +1,4 @@
-### OIBSIP_3
+### OIBGRIP
 
 <!--
 **dhanashrighagare/dhanashrighagare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
